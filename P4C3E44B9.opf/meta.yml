@@ -1,0 +1,157 @@
+id: P4C3E44B9
+initial_creation_type: input
+source_metadata:
+  title: Dudjom Rinpoche Series
+  language: nl
+  description: 'We present the following texts by Kyabje Dudjom Rinpoche Jikdral Yeshe
+    Dorje (bdud ''joms ''jigs bral ye shes rdo rje, 1904–1987), the renowned yogi
+    and scholar and first appointed head of the Nyingma school in exile:'
+  volume:
+    d9f5f790a2cf40f9895e7caa71913023:
+      title: The Mirror Clearly Showing What to Adopt and Abandon
+      parent: Advice
+    35bc88366f34440a86f9bc0bcca3a0b1:
+      title: The Concise Benefits of the Festival of the Tenth Day
+      parent: Benefits
+    affa645850784c1ab33642ed268d0cf4:
+      title: 'The Light of Primordial Wisdom: An Instruction Manual for the Primordially
+        Pure Perfection Stage of the Powerful & Wrathful Dorje Drolö, Conqueror of
+        Demons'
+      parent: Commentaries
+    390e1bc048614b57b9d333c579962045:
+      title: The Ornament of Padmasambhava’s Enlightened Vision
+      parent: Commentaries
+    eaab13837d354e2ab70194305ae2361f:
+      title: Concise Consecration
+      parent: Consecration
+    dd985c33bc5141c6b8852b02a5c22725:
+      title: A Brief Petitionary Offering to the Mātṛkā Pukkasī, Local Protectress
+        of the Jarung Kashor Stūpa
+      parent: Dharma Protectors
+    1b576fe8ae0e4a5f883469cfde82cb42:
+      title: Dzogchen Aspiration Prayer
+      parent: Dzogchen
+    889217172cbb4aecb83f8dccce32c2dc:
+      title: 'Spontaneous Song of the Genuine Nature: A Prayer of Calling the Guru
+        from Afar'
+      parent: Dzogchen
+    6066da06c9014441bc6c22a1bd76ee33:
+      title: Summary of Striking the Vital Point in Three Statements
+      parent: Dzogchen
+    22475c847fd74c8184e6f89423b124c6:
+      title: 'A Joyful Chariot for the Fortunate: An Aspiration to Travel to the Copper-Coloured
+        Mountain of Glory'
+      parent: Guru Rinpoche Prayers
+    c0ea138185944e038a24b0158936746c:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      parent: Guru Rinpoche Prayers
+    1390c797e3bb4a458d252b3fdfccdf38:
+      title: A Short Prayer to the Abbot, the Master and the King
+      parent: Guru Rinpoche Prayers
+    73620e1db827436884a7cba00c4c2cec:
+      title: 'Drumbeat of the Deathless Vajra: A Fervent Invocation and Prayer'
+      parent: Guru Rinpoche Prayers
+    6fa321b885ad4b3e82aaf52fceb42e25:
+      title: The Prayer to Guru Rinpoche that Swiftly Removes Obstacles and Fulfills
+        All Wishes
+      parent: Guru Rinpoche Prayers
+    e8916352c29a4f3a96e76847f4ed0944:
+      title: A Concise Lineage Prayer
+      parent: Lineage Prayers
+    68bb808f0bc1421098e2e4e688ce3ceb:
+      title: Prayer for the Long Life Dodrupchen Rinpoche
+      parent: Long Life Prayers
+    21a110b0d5774e88b7b8feff2b9e6383:
+      title: Prayer for the Long Life of Chökyi Nyima Rinpoche
+      parent: Long Life Prayers
+    8fb7136c7a94406a8bc930bacff64fbb:
+      title: Prayer for the Long Life of Dzogchen Rinpoche
+      parent: Long Life Prayers
+    74e62516f77e47ba90dc68856504f8b7:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      parent: Long Life Prayers
+    4e8e555758c4432cbcc218e91e149809:
+      title: 'The Drumbeat of Immortality: A Prayer for the Long Life of the Great
+        Tertön Dudjom Jigdral Yeshe Dorje'
+      parent: Long Life Prayers
+    f0589663dce04ec2a49b15fa1310c76e:
+      title: A Concise Recitation of the Preliminary Practice according to the New
+        Treasure of Dudjom
+      parent: Ngöndro
+    2010add33d0a4fc6872436d79c0227c0:
+      title: Brief Notes on the Visualization for the Concise Recitation of the Pure
+        Vision Preliminary Practice
+      parent: Ngöndro
+    cdd290cf3ad24be89ca24f97dd2c3762:
+      title: Brief Red Sur Offering
+      parent: Offering
+    4b8de157cc1e4bf0aceeb317f77f60c9:
+      title: Brief Sur Offering
+      parent: Offering
+    fd8dbec97b674587af2f3d976f9b0695:
+      title: A Prayer to Recognize My Own Faults and Keep in Mind the Objects of Refuge
+      parent: Prayers
+    2436b24bceca4a8fb5716e71aa8327eb:
+      title: Essence and Embodiment of All the Buddhas
+      parent: Prayers
+    f159e6efad3a454589d0634d6ef046c2:
+      title: Prayer to the Three Great Stūpas of Kathmandu
+      parent: Prayers
+    aee6c64149df4be9bba3dc250c8d9090:
+      title: A Daily 'Hand-Clapping' Practice of Siṃhamukhā
+      parent: Sādhanas
+    d77c93c35c274e629fedc5c5f13977d4:
+      title: A Daily Long-Life Practice of Amitāyus
+      parent: Sādhanas
+    5ce7ea4ff8364744940ed425a4931cc8:
+      title: A Daily Practice of Lama Sangdü
+      parent: Sādhanas
+    89c6ce39bc27472ca931813059f16d90:
+      title: A Daily Practice of Ucchuṣma
+      parent: Sādhanas
+    f5adb8c18f1244bc9cda7cd9fe7f66c5:
+      title: Condensed Daily Practice of The Heart Essence of the Sublime Lady of
+        Immortality
+      parent: Sādhanas
+    f3900f762c104f3a9ce7e469f1e0b256:
+      title: Daily Practice of Dorje Gotrab
+      parent: Sādhanas
+    c93521dac0db48ec93e5125217711e0f:
+      title: 'The Blazing Tower: A Daily Practice of Uṣṇīṣa-Sitātapatrā'
+      parent: Sādhanas
+    3956ae9df5114e128010cd48af61a541:
+      title: 'The Concentrated Essence: A Sādhana of Yeshe Tsogyal'
+      parent: Sādhanas
+    e9b8ea3f51044b0ba8160a8b3e3126d6:
+      title: The Daily Practice of the Secret Sādhana of Dorje Drolö
+      parent: Sādhanas
+    ab1da763bbd94cb9a51cc5fe83dcab95:
+      title: The Essential Daily Practice of Vajrakīla
+      parent: Sādhanas
+    adf285304a3b45aa8b9f8cf3a0080bcc:
+      title: 'The Sublime Path to Immortality: The Quintessence of Profoundly Secret
+        Pith Instructions on Attaining Vajra Longevity'
+      parent: Sādhanas
+    7a3022c202e740649d1b7db93e2c6dcc:
+      title: 'Divine Blue Water: A Contamination Purifying Smoke Offering by the Great
+        Master Padmasambhava'
+      parent: Sang Offering
+    a59ed89794314f88aa8363594ef62d6e:
+      title: The Mountain Smoke Offering Arranged for Recitation
+      parent: Sang Offering
+    df8c0949ef164f179ab97d805f2305af:
+      title: 'The Concentrated Essence: A Concise Practice of Healing and Purifying
+        (Sojong) the Three Sets of Vows'
+      parent: Sojong
+    896fa7b53e674040bcb575d4f8fce18d:
+      title: Remainder Torma Offering for Seven-Line Prayer Guru Yoga
+      parent: Tsok
+    fe840c23be66459abc74489fe8835af1:
+      title: The Brief Tsok Feast Offering Prayer from 'The Profound Path of the Ḍākinīs'
+        Heart Drop'
+      parent: Tsok
+    4100624704db423d8db1854cca966bcb:
+      title: A Daily Practice of Vajraṇakhī
+      parent: Vajraṇakhī
+created_at: '2022-02-28T23:10:30.053443'
+last_modified_at: '2022-02-28T23:10:30.053446'
